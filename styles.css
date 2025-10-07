@@ -34,7 +34,7 @@ body {
   align-items: center;
   text-align: center;
 
-  background-color: var(--cg-black);
+  background-color: rgb(129, 223, 129);
   color: var(--cg-white);
   padding: 0px 0px;
 
@@ -54,7 +54,7 @@ body {
 }
 
 .navbar a {
-  color: var(--cg-white);
+  color: black;
   font-weight: bold;
   margin: 0 12px;
   text-decoration: none;
@@ -64,7 +64,7 @@ body {
 }
 
 .navbar a:hover {
-  color: var(--cg-blue);
+  color: rgb(255, 0, 195);
   text-decoration: underline;
 }
 
